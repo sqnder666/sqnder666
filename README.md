@@ -5,3 +5,6 @@
 <h4> Vk: @8i7u6y5e4q </h4>
 <h4> Gmail: i.irudovi21@gmail.com </h4>
 <h4> Telegram: @sqnder666 </h4>
+Languages and Tools
+
+![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=c%2b%2b)
